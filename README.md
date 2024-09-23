@@ -1,2 +1,2 @@
-# module-10-challenge
-Advance SQLIte
+# Module_10_Challenge
+Module 10 Challenge
